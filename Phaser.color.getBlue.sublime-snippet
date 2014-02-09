@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Color.getBlue(${1:color});]]></content>
+    <tabTrigger>getBlue</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

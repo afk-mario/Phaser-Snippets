@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Color.interpolateColorWithRGB(${1:color},${2:r},${3:g},${4:b},${5:steps},${6:currentStep});]]></content>
+    <tabTrigger>interpolateColorWithRGB</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
