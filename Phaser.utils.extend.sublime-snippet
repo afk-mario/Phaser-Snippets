@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[utils.extend(${1:true}, ${2:obj});]]></content>
+    <content><![CDATA[Utils.extend(${1:true}, ${2:obj});]]></content>
     <tabTrigger>extend</tabTrigger>
     <scope>source.js</scope>
 </snippet>

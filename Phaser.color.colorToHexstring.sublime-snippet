@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Color.colorToHexstring(${1:color});]]></content>
+    <tabTrigger>colorToHexstring</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

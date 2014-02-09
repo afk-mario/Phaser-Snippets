@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[utils.HEXtoRGB(${1:hex});]]></content>
+    <content><![CDATA[Utils.HEXtoRGB(${1:hex});]]></content>
     <tabTrigger>HEXtoRGB</tabTrigger>
     <scope>source.js</scope>
 </snippet>

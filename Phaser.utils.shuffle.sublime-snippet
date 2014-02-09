@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[utils.shuffle(${1:array});]]></content>
+    <content><![CDATA[Utils.shuffle(${1:array});]]></content>
     <tabTrigger>shuffle</tabTrigger>
     <scope>source.js</scope>
 </snippet>

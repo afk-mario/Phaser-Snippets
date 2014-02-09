@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[utils.isPlainObject(${1:obj});]]></content>
+    <content><![CDATA[Utils.isPlainObject(${1:obj});]]></content>
     <tabTrigger>isPlainObject</tabTrigger>
     <scope>source.js</scope>
 </snippet>
