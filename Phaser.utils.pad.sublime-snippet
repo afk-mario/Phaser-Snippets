@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[utils.pad(${1:'str'},${2:len}, ${3:pad}, ${4:dir});]]></content>
-    <tabTrigger>ut.pad</tabTrigger>
+    <tabTrigger>pad</tabTrigger>
     <scope>source.js</scope>
 </snippet>
