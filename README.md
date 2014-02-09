@@ -61,7 +61,7 @@ SinglePad     |
 Sound     |
 SoundManager     |
 Sprite     |
-Stage
+Stage     |
 StageScaleMode     |
 State     |
 StateManager     |
