@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.refreshFrame();]]></content>
+    <tabTrigger>AnimationManager.refreshFrame</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.update();]]></content>
+    <tabTrigger>AnimationManager.update</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

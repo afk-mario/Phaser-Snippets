@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.validateFrames(${1:frames},${2:useNumericIndex});]]></content>
+    <tabTrigger>AnimationManager.validateFrames</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

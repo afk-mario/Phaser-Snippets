@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.destroy();]]></content>
+    <tabTrigger>AnimationManager.destroy</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

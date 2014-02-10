@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.add(${1:'name'},${2:frames},${3:frameRate},${4:'loop'},${5:useNumericIndex});]]></content>
+    <tabTrigger>AnimationManager.add</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

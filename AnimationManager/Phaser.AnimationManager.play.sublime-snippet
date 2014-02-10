@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.play(${1:'name'},${2:frameRate},${3:loop},${4:killOnComplete});]]></content>
+    <tabTrigger>AnimationManager.play</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

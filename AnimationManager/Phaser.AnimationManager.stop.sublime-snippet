@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.stop(${1:'name'},${2:resetFrame});]]></content>
+    <tabTrigger>AnimationManager.stop</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[.getAnimation(${1:'name'});]]></content>
+    <tabTrigger>AnimationManager.getAnimation</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
