@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Color.getRed(${1:color});]]></content>
+    <content><![CDATA[Phaser.Color.getRed(${1:color});]]></content>
     <tabTrigger>getRed</tabTrigger>
     <scope>source.js</scope>
 </snippet>

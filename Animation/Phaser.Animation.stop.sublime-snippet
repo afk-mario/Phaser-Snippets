@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Animation.stop(${1:resetFrame});]]></content>
+    <tabTrigger>stop</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Utils.RGBtoHexstring(${1:color});]]></content>
+    <content><![CDATA[Phaser.Utils.RGBtoHexstring(${1:color});]]></content>
     <tabTrigger>RGBtoHexstring</tabTrigger>
     <scope>source.js</scope>
 </snippet>

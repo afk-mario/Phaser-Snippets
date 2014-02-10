@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Animation.play(${1:frameRate},${2:loop},${3:killOnComplete});]]></content>
+    <tabTrigger>play</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

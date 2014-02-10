@@ -9,7 +9,7 @@
 
 Classes              | Finished
 :------------------- | --------:
-Animation            |
+Animation            | Done
 AnimationManager     |
 AnimationParser      |
 BitmapData           |

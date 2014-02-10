@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Color.getAlphaFloat(${1:color});]]></content>
+    <content><![CDATA[Phaser.Color.getAlphaFloat(${1:color});]]></content>
     <tabTrigger>getAlphaFloat</tabTrigger>
     <scope>source.js</scope>
 </snippet>

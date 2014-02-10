@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Animation.generateFrameNames(${1:'prefix'},${2:start},${3:stop},${4:'suffix'},${5:zeroPad});]]></content>
+    <tabTrigger>generateFrameNames</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

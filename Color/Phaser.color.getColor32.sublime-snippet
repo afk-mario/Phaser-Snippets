@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Color.getColor32(${1:alpha},${2:red},${3:green},${4:blue});]]></content>
+    <content><![CDATA[Phaser.Color.getColor32(${1:alpha},${2:red},${3:green},${4:blue});]]></content>
     <tabTrigger>getColor32</tabTrigger>
     <scope>source.js</scope>
 </snippet>

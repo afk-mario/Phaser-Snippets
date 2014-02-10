@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Color.getRandomColor(${1:min},${2:max},${3:alpha});]]></content>
+    <content><![CDATA[Phaser.Color.getRandomColor(${1:min},${2:max},${3:alpha});]]></content>
     <tabTrigger>getRandomColor</tabTrigger>
     <scope>source.js</scope>
 </snippet>

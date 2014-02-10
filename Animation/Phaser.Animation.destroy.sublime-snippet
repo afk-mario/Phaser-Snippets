@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Animation.destroy();]]></content>
+    <tabTrigger>destroy</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[Color.interpolateRGB(${1:r1},${2:g1},${3:b1},${4:r2},${5:g2},${6:b2},${7:steps}.${7:currentStep});]]></content>
+    <content><![CDATA[Phaser.Color.interpolateRGB(${1:r1},${2:g1},${3:b1},${4:r2},${5:g2},${6:b2},${7:steps}.${7:currentStep});]]></content>
     <tabTrigger>interpolateRGB</tabTrigger>
     <scope>source.js</scope>
 </snippet>

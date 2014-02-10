@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Animation.restart();]]></content>
+    <tabTrigger>restart</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
