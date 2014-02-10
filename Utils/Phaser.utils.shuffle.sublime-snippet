@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Phaser.Utils.shuffle(${1:array});]]></content>
-    <tabTrigger>shuffle</tabTrigger>
-    <scope>source.js</scope>
-</snippet>

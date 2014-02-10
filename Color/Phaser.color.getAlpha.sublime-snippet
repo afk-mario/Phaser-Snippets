@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Phaser.Color.getAlpha(${1:color});]]></content>
-    <tabTrigger>getAlpha</tabTrigger>
-    <scope>source.js</scope>
-</snippet>

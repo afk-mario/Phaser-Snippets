@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Phaser.Utils.isPlainObject(${1:obj});]]></content>
-    <tabTrigger>isPlainObject</tabTrigger>
-    <scope>source.js</scope>
-</snippet>

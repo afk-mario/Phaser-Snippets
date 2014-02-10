@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Phaser.Utils.extend(${1:true}, ${2:obj});]]></content>
-    <tabTrigger>extend</tabTrigger>
-    <scope>source.js</scope>
-</snippet>

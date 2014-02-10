@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[Phaser.Color.colorToHexstring(${1:color});]]></content>
-    <tabTrigger>colorToHexstring</tabTrigger>
-    <scope>source.js</scope>
-</snippet>
