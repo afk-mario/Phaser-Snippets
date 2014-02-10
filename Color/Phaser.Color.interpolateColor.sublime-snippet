@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Color.interpolateColor(${1:color1},${2:color2},${3:steps},${4:cuttentStep},${5:alpha});]]></content>
+    <tabTrigger>interpolateColor</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

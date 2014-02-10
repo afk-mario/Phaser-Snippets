@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Utils.RGBtoWebstring(${1:color});]]></content>
+    <tabTrigger>RGBtoWebstring</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
