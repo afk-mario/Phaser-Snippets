@@ -3,7 +3,7 @@
 [Sublime Text](http://www.sublimetext.com/) text editor snippets for the awsome HTML5 game library [Phaser](http://phaser.io/)
 
 ## Phaser version supported
-1.1.4 
+1.1.4
 
 ## Status
 
@@ -11,7 +11,7 @@ Classes              | Finished
 :------------------- | --------:
 Animation            | Done
 AnimationManager     | Done
-AnimationParser      |
+AnimationParser      | Done
 BitmapData           |
 BitmapText           |
 Button               |

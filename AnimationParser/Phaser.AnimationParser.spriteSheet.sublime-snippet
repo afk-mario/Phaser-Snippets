@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[Phaser.AnimationParser.spriteSheet(${1:game},${2:'key'},${3:frameWidth},${4:frameHeight},${5:frameMax},${6:margin},${7:spacing});]]></content>
+    <tabTrigger>spriteSheet</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

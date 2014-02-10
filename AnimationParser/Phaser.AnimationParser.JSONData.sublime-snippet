@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.AnimationParser.JSONData(${1:game},${2:json},${3:'cacheKey'});]]></content>
+    <tabTrigger>JSONData</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

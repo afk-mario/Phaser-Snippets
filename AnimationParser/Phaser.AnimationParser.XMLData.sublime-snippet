@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.AnimationParser.XMLData(${1:game},${2:xml},${3:'cacheKey'});]]></content>
+    <tabTrigger>XMLData</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
