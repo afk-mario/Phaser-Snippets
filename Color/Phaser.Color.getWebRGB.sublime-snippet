@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Phaser.Color.getWebRGB(${1:color});]]></content>
+    <tabTrigger>getWebRGB</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
